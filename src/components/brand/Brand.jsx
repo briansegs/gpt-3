@@ -1,5 +1,6 @@
 import React from 'react'
 import './brand.css';
+import { google, slack, atlassin, dropbox, shopify } from './imports'
 
 const Brand = () => {
   return (

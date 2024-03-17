@@ -54,3 +54,17 @@
 
     margin-bottom: 2rem;
 }
+
+@media  screen and (max-width: 950px) {
+    .gpt3__possibility {
+        flex-direction: column;
+    }
+
+    .gpt3__possibility-image {
+        margin-bottom: 1rem;
+    }
+
+    .gpt3__possibility-content {
+        margin-top: 2rem;
+    }
+}

@@ -16,6 +16,8 @@
     font-size: 62px;
     line-height: 75px;
     letter-spacing: -0.04em;
+
+    padding-bottom: 3px;
 }
 
 .gpt3__blog-container {
@@ -50,7 +52,7 @@
     }
 
     .gpt3__blog-container_groupA .gpt3__blog-container_article-image  {
-        height: 250px;
+        height: 177px;
     }
 }
 
@@ -61,6 +63,10 @@
 
     .gpt3__blog-container_groupA .gpt3__blog-container_article {
         width: 100%;
+    }
+
+    .gpt3__blog-container_groupA .gpt3__blog-container_article-image  {
+        height: 207px;
     }
 
     .gpt3__blog-heading h1 {
